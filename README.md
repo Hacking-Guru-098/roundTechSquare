@@ -1,4 +1,4 @@
-# Full Stack Task Tracker (Interview-Ready Starter)
+# Full Stack Task Tracker 
 
 Monorepo with:
 - **Backend**: Node.js + Express + TypeScript + MongoDB (JWT auth)
