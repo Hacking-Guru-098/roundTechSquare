@@ -98,3 +98,16 @@ Returns: `204 No Content`
 - Auth is persisted with AsyncStorage; Axios attaches `Authorization` automatically.
 - Tasks use TanStack Query with invalidation + optimistic updates.
 - Includes filters (All/Active/Completed) and an edit modal.
+
+## 📱 Application Screenshots
+
+Here are the premium screens designed for the **TaskSphere** app, showing our high-fidelity custom dark theme, interactive task management, progress bar indicator, and streamlined authentication flow:
+
+<p align="center">
+  <img src="ui_ss/WhatsApp%20Image%202026-05-07%20at%2011.12.53%20AM.jpeg" width="180" alt="Login Screen" /> &nbsp;
+  <img src="ui_ss/WhatsApp%20Image%202026-05-07%20at%2011.12.53%20AM%20(1).jpeg" width="180" alt="Signup Screen" /> &nbsp;
+  <img src="ui_ss/WhatsApp%20Image%202026-05-07%20at%2011.12.53%20AM%20(2).jpeg" width="180" alt="Empty Task List" /> &nbsp;
+  <img src="ui_ss/WhatsApp%20Image%202026-05-07%20at%2011.12.53%20AM%20(3).jpeg" width="180" alt="Creating Task Screen" /> &nbsp;
+  <img src="ui_ss/WhatsApp%20Image%202026-05-07%20at%2011.12.54%20AM.jpeg" width="180" alt="Active Tasks List with Progress Bar" />
+</p>
+
